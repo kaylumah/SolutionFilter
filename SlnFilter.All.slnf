@@ -1,0 +1,14 @@
+{
+  "solution": {
+    "path": "SlnFilter.sln",
+    "projects": [
+      "src\\Kaylumah.SlnFilter.Extensions.Concept.Abstractions\\Kaylumah.SlnFilter.Extensions.Concept.Abstractions.csproj",
+      "src\\Kaylumah.SlnFilter.Extensions.Concept.ConcreteAlpha\\Kaylumah.SlnFilter.Extensions.Concept.ConcreteAlpha.csproj",
+      "src\\Kaylumah.SlnFilter.Extensions.Concept.ConcreteBravo\\Kaylumah.SlnFilter.Extensions.Concept.ConcreteBravo.csproj",
+      "src\\Kaylumah.SlnFilter.Extensions.Concept\\Kaylumah.SlnFilter.Extensions.Concept.csproj",
+      "test\\Kaylumah.SlnFilter.Extensions.Concept.ConcreteAlpha.Tests\\Kaylumah.SlnFilter.Extensions.Concept.ConcreteAlpha.Tests.csproj",
+      "test\\Kaylumah.SlnFilter.Extensions.Concept.ConcreteBravo.Tests\\Kaylumah.SlnFilter.Extensions.Concept.ConcreteBravo.Tests.csproj",
+      "test\\Kaylumah.SlnFilter.Extensions.Concept.Tests\\Kaylumah.SlnFilter.Extensions.Concept.Tests.csproj"
+    ]
+  }
+}
